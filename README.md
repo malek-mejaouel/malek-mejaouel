@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malek Mejaouel</h1>
 <h3 align="center">Engineering Student | Passionate about Technology & Innovation</h3>
 
-- 🔭 I’m currently working on **Gym-application**
 
-- 🌱 I’m currently learning **Java,Symfony**
-
-- 💬 Ask me about **C++,PHP**
 
 - 📫 How to reach me **mejaouelmalekt1@gmail.com**
 
